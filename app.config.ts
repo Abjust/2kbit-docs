@@ -2,6 +2,7 @@ export default defineAppConfig({
   docus: {
     title: '2kbit',
     description: '2kbit C# Edition: New食用方法（？）',
+    image: './public/cover.png',
     socials: {
       github: 'Abjust'
     },
@@ -30,7 +31,8 @@ export default defineAppConfig({
     footer: {
       textLinks: [
         {
-          text: 'bug是杀不完的，你杀死了一个bug，就会有千千万万个bug站起来！'
+          text: 'bug是杀不完的，你杀死了一个bug，就会有千千万万个bug站起来！',
+          href: '#',
         }
       ]
     }
