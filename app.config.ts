@@ -1,7 +1,7 @@
 export default defineAppConfig({
   docus: {
     title: '2kbit',
-    description: '2kbit C# Edition: New食用方法（？）',
+    description: '2kbit 食用方法（？）',
     image: './public/cover.png',
     socials: {
       github: 'Abjust'
